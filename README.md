@@ -9,7 +9,7 @@ This template has been created by **Trevor Emerick** and is licensed under the [
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] Documentation Update (if none of the other choices apply)
 
-## The Changes
+## What's Changing?
 
 Create a brief description, or list of the changes you are including for this PR
 
